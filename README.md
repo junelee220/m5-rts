@@ -14,7 +14,7 @@
 
 ## ✨ Features / 功能特性
 
-* **==🌍 Multi-Protocol Support / 全球协议支持==**:
+* ==**🌍 Multi-Protocol Support / 全球协议支持**==:
 * **BPC (China 68.5kHz)**: Optimized 12H format logic for better compatibility with older movements. (兼容老款机芯的12小时制优化)
 * **JJY (Japan 40kHz/60kHz)**: Full packet support including Year, Month, Day, Day of Year (DOY), Weekday. (完整日期支持)
 * **WWVB (USA 60kHz)**: Supports DST, Leap Year, and DOY logic. (支持夏令时和闰年)
