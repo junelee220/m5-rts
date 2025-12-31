@@ -15,25 +15,25 @@
 ## ✨ Features / 功能特性
 
 * **== 🌍 Multi-Protocol Support / 全球协议支持 ==**:
-* * **BPC (China 68.5kHz)**: Optimized 12H format logic for better compatibility with older movements. (兼容老款机芯的12小时制优化)
+* **BPC (China 68.5kHz)**: Optimized 12H format logic for better compatibility with older movements. (兼容老款机芯的12小时制优化)
 * **JJY (Japan 40kHz/60kHz)**: Full packet support including Year, Month, Day, Day of Year (DOY), Weekday. (完整日期支持)
 * **WWVB (USA 60kHz)**: Supports DST, Leap Year, and DOY logic. (支持夏令时和闰年)
 * **MSF (UK) / DCF77 (Germany)**: Basic signal generation.
 
 
-* **🔊 Triple Output Modes / 三模输出驱动**:
+* **== 🔊 Triple Output Modes / 三模输出驱动 ==**:
 * **SPEAKER**: Internal speaker for close-range syncing. (内置喇叭近场对时)
 * **HEADPHONE**: Low-voltage PWM for audio jack adapters (Hearing protection). (耳机模式，低电平保护听力)
 * **COIL (BOOST)**: High-power PWM for driving external DIY coil antennas. (线圈模式，满功率驱动)
 
 
-* **📶 Smart Connectivity / 智能连接**:
+* **== 📶 Smart Connectivity / 智能连接 ==**:
 * Auto-connects to saved WiFi on boot. (开机自动重连)
 * Interactive **WiFi Scanner & Password Wizard** if connection fails. (连接失败自动进入扫描向导)
 * NTP Time Sync with timeout skip. (NTP 网络对时)
 
 
-* **🌐 Global Roaming / 全球漫游**:
+* **== 🌐 Global Roaming / 全球漫游 ==**:
 * Adjustable timezone (0.5h steps) for regions like India/Australia. (支持0.5小时时区步进)
 * "Spoofing Mode": Send Beijing time using JJY protocol. (支持用 JJY 协议发北京时间)
 
