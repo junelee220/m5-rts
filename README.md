@@ -10,11 +10,9 @@
 
 **M5-RTS** 是一个基于 **M5Stack Cardputer** 的便携式多协议电波表信号模拟器。它可以模拟全球主流的电波授时信号，帮助你在无信号覆盖区域或室内深处校准你的卡西欧、西铁城、精工等电波手表。
 
+![pics](./img/m5rts-pics.jpg)
+https://github.com/user-attachments/assets/1d5864cc-a46f-4494-ac31-339a1f03db17
 
-<video id="video" controls="" preload="./img/m5rts-pics.jpg">
-      <source id="mp4" src="https://raw.githubusercontent.com/junelee220/m5-rts/master/img/m5rts-video.mp4" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
 
 
 ---
