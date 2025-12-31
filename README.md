@@ -2,9 +2,9 @@
 我在gemini的辅助下完成了这个程序。
 
 ---
-# M5-RTS (Radio Time Simulator)
+# M5-RTS or M5 Radio Time Simulator
 
-### 📻 M5电波表授时器 / Global Radio Clock Sync Tool
+### 📻 M5电波表授时器, as Global Radio Clock Sync Tool
 
 **M5-RTS** is a portable, multi-protocol Radio Controlled Clock (RCC) signal simulator based on **M5Stack Cardputer**. It allows you to sync your Casio, Citizen, Seiko, and other radio-controlled watches anywhere in the world, even without a real radio signal.
 
